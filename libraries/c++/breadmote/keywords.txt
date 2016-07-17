@@ -1,0 +1,14 @@
+BreadMote	KEYWORD1
+read	KEYWORD2
+update	KEYWORD2
+addSlider	KEYWORD2
+addSwitch	KEYWORD2
+addButton	KEYWORD2
+addCheckBox	KEYWORD2
+addTextField	KEYWORD2
+addLabel	KEYWORD2
+addTimePicker	KEYWORD2
+addRadioGroup	KEYWORD2
+remove	KEYWORD2
+setEnabled	KEYWORD2
+logError	KEYWORD2
