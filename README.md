@@ -116,7 +116,7 @@ There are currently plans to add:
 * more connection protocols (e.g. Wi-Fi Direct and Bluetooth Low Energy)
 * more features (e.g. streaming audio and video from your hardware)
 
-If you are interested in contributing, contact me at scott@breadmote.com
+If you are interested in contributing, contact me at scottcypher14@gmail.com
 
 ###Communication protocol
 
@@ -124,4 +124,4 @@ If you want to port BreadMote to another hardware, information about the protoco
 
 ###Awesome projects
 
-If your project uses BreadMote, I'd love to showcase it here! Contact me at scott@breadmote.com
+If your project uses BreadMote, I'd love to showcase it here! Contact me at scottcypher14@gmail.com
