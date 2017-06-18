@@ -107,6 +107,11 @@ And here's what the corresponding remote would look like:
 * [Arduino](https://github.com/ScottCypher/BreadMote/blob/master/arduino/demo/demo.ino)
 * [ESP8266](https://github.com/ScottCypher/BreadMote/blob/master/esp8266/demo/demo.ino)
 
+**Advanced** - Log errors on Breadmote and disable parts of the UI dynamically
+
+* [Arduino](https://github.com/ScottCypher/BreadMote/blob/master/arduino/advanced/advanced.ino)
+* [ESP8266](https://github.com/ScottCypher/BreadMote/blob/master/esp8266/advanced/advanced.ino)
+
 ###The future
 
 There are currently plans to add:
