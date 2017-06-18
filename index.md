@@ -1,16 +1,16 @@
-###Developer links
+### Developer links
 
 * [Installation & Documentation](#installation--documentation)
 * [Templates](#templates)
 * [Examples](#examples)
 
-###BreadMote
+### BreadMote
 
 Giving your invention an app is now as easy as buttering bread. Simply import the BreadMote library into your hardware, add code to customize the app, and decide how to handle user input. That's it! When BreadMote connects to your hardware you will see your app.
 
 There are plenty of examples to get you started. BreadMote currently supports Wi-Fi and Bluetooth connections.
 
-###Why BreadMote?
+### Why BreadMote?
 
 *Simple* - you only code on your hardware. There's no setup needed on the app itself!
 
@@ -20,7 +20,7 @@ There are plenty of examples to get you started. BreadMote currently supports Wi
 
 *Troubleshooting Aid* - display error messages directly on your phone rather than guess whats going on in your hardware
 
-###Installation & Documentation
+### Installation & Documentation
 
 You'll need the app. It's currently only on [Android](https://play.google.com/apps/testing/com.cypher.breadmote)
 
@@ -31,7 +31,7 @@ You'll need the app. It's currently only on [Android](https://play.google.com/ap
 Documentation for the C++ library can be found [here](http://scottcypher.github.io/BreadMote/libraries/c++/class_bread_mote.html)
 
 
-###Sample code
+### Sample code
 Blink a light, all from your phone!
 
     #include <BreadMote.h>
@@ -90,12 +90,12 @@ And here's what the corresponding remote would look like:
 ![alt text](http://scottcypher.github.io/BreadMote/screenshot.png "Blink BreadMote screenshot")
 
 
-###Templates
+### Templates
 
 * [Arduino](https://github.com/ScottCypher/BreadMote/blob/master/arduino/template/template.ino)
 * [ESP8266](https://github.com/ScottCypher/BreadMote/blob/master/esp8266/template/template.ino)
 
-###Examples
+### Examples
 
 **Blink** - Blink an LED on your hardware using the app
 
@@ -112,7 +112,7 @@ And here's what the corresponding remote would look like:
 * [Arduino](https://github.com/ScottCypher/BreadMote/blob/master/arduino/advanced/advanced.ino)
 * [ESP8266](https://github.com/ScottCypher/BreadMote/blob/master/esp8266/advanced/advanced.ino)
 
-###The future
+### The future
 
 There are currently plans to add:
 
@@ -123,10 +123,10 @@ There are currently plans to add:
 
 If you are interested in contributing, contact me at scottcypher14@gmail.com
 
-###Communication protocol
+### Communication protocol
 
 If you want to port BreadMote to another hardware, information about the protocol can be found [here](http://scottcypher.github.io/BreadMote/protocol.md). Be sure to check out existing the existing libraries for example implementations.
 
-###Awesome projects
+### Awesome projects
 
 If your project uses BreadMote, I'd love to showcase it here! Contact me at scottcypher14@gmail.com
