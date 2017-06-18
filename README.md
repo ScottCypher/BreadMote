@@ -104,8 +104,8 @@ And here's what the corresponding remote would look like:
 
 **Print** - Print all user interaction to your hardware's serial monitor
 
-* [Arduino](https://github.com/ScottCypher/BreadMote/blob/master/arduino/print/print.ino)
-* [ESP8266](https://github.com/ScottCypher/BreadMote/blob/master/esp8266/print/print.ino)
+* [Arduino](https://github.com/ScottCypher/BreadMote/blob/master/arduino/demo/demo.ino)
+* [ESP8266](https://github.com/ScottCypher/BreadMote/blob/master/esp8266/demo/demo.ino)
 
 ###The future
 
