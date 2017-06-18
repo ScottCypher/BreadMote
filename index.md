@@ -1,7 +1,5 @@
 ###Developer links
 
-* [Android SDK](https://github.com/ScottCypher/BreadMote-Android)
-* [Android App](https://play.google.com/apps/testing/com.cypher.breadmote)
 * [Installation & Documentation](#installation--documentation)
 * [Templates](#templates)
 * [Examples](#examples)
@@ -9,8 +7,6 @@
 ###BreadMote
 
 Giving your invention an app is now as easy as buttering bread. Simply import the BreadMote library into your hardware, add code to customize the app, and decide how to handle user input. That's it! When BreadMote connects to your hardware you will see your app.
-
-![alt text](http://scottcypher.github.io/BreadMote/highlight.png "BreadMote screenshot")
 
 There are plenty of examples to get you started. BreadMote currently supports Wi-Fi and Bluetooth connections.
 
@@ -108,12 +104,17 @@ And here's what the corresponding remote would look like:
 
 **Print** - Print all user interaction to your hardware's serial monitor
 
-* [Arduino](https://github.com/ScottCypher/BreadMote/blob/master/arduino/print/print.ino)
-* [ESP8266](https://github.com/ScottCypher/BreadMote/blob/master/esp8266/print/print.ino)
+* [Arduino](https://github.com/ScottCypher/BreadMote/blob/master/arduino/demo/demo.ino)
+* [ESP8266](https://github.com/ScottCypher/BreadMote/blob/master/esp8266/demo/demo.ino)
+
+**Advanced** - Log errors on Breadmote and disable parts of the UI dynamically
+
+* [Arduino](https://github.com/ScottCypher/BreadMote/blob/master/arduino/advanced/advanced.ino)
+* [ESP8266](https://github.com/ScottCypher/BreadMote/blob/master/esp8266/advanced/advanced.ino)
 
 ###The future
 
-With community support, maybe there could be:
+There are currently plans to add:
 
 * more hardware support
 * an app for iOS
