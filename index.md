@@ -1,5 +1,7 @@
 ### Developer links
 
+* [Android SDK](https://github.com/ScottCypher/BreadMote-Android)
+* [Android app](https://play.google.com/apps/testing/com.cypher.breadmote)
 * [Installation & Documentation](#installation--documentation)
 * [Templates](#templates)
 * [Examples](#examples)
